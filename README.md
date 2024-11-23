@@ -58,23 +58,6 @@ This project is a web application that predicts student performance using variou
 3. **Get Prediction**:
    Submit the form to view the predicted performance.
 
-## File Structure
-
-```
-student-performance-predictor/
-|-- app.py                  # Main application entry point
-|-- src/
-|   |-- pipeline/
-|       |-- predict_pipeline.py  # Prediction logic and pipeline
-|-- templates/
-|   |-- index.html          # Home page
-|   |-- home.html           # Prediction result page
-|-- models/
-|   |-- model.pkl           # Trained machine learning model
-|   |-- scaler.pkl          # Scaler used for preprocessing
-|-- static/
-|-- requirements.txt        # List of dependencies
-```
 
 ## Input Features
 
@@ -89,6 +72,9 @@ The application requires the following inputs:
 | Test Preparation Course    | Completed or None                        |
 | Writing Score              | Score in the writing test                |
 | Reading Score              | Score in the reading test                |
+
+## How Web Page Looks
+![image alt](https://github.com/jimmymuthoni/End-to-End-Machine-Learning-Application/blob/771fa685116509d3a18a483f142ead3b557c659a/StudentPerformance.png)
 
 ## Model and Pipeline
 
