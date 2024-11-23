@@ -18,7 +18,7 @@ This project is a web application that predicts student performance using variou
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/student-performance-predictor.git
+   git clone https://github.com/jimmymuthoni/student-performance-predictor.git
    cd student-performance-predictor
    ```
 
@@ -35,7 +35,7 @@ This project is a web application that predicts student performance using variou
 
 4. **Run the Application**:
    ```bash
-   python app.py
+   python application.py
    ```
 
    The application will start running on `http://127.0.0.1:5000`.
