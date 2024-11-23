@@ -18,7 +18,7 @@ This project is a web application that predicts student performance using variou
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jimmymuthoni/student-performance-predictor.git
+   git clone https://github.com/jimmymuthoni/End-to-End-Machine-Learning-Application.git
    cd student-performance-predictor
    ```
 
