@@ -98,6 +98,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Contributions are welcome! Please create an issue or submit a pull request for any improvements.
 
+
+## Contact
+For inquiries or contributions, please contact [jimmymuthoni26@gmail.com].
+
 ## Acknowledgments
 
 - [Flask Documentation](https://flask.palletsprojects.com/)
